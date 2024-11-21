@@ -2,8 +2,6 @@
 
 An e-commerce website for footwear built using React.js.
 
-![Project Demo](https://footwear-react-app.vercel.app/)
-
 ---
 
 ## Features ✨
@@ -34,10 +32,13 @@ npx json-server --watch db.json --port 5002
 npm start
 
 # Technologies Used
-## React.js
-## JSON Server
-## CSS for styling
+ React.js
+ JSON Server
+ CSS for styling
 
 # Contributors
-## Munaf Sumbhaniya
+ Munaf Sumbhaniya
+
+ ## Live[Live Demo](https://footwear-react-app.vercel.app/)
+
 
