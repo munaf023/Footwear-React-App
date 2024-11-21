@@ -33,5 +33,11 @@ npx json-server --watch db.json --port 5002
 # Start the React application
 npm start
 
+# Technologies Used
+## React.js
+## JSON Server
+## CSS for styling
 
+# Contributors
+## Munaf Sumbhaniya
 
