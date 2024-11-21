@@ -24,3 +24,6 @@ cd Footwear-React-App
 npm install
 npx json-server --watch db.json --port 5002
 npm start
+
+Project Structure
+The app uses a component-based structure with a separation of concerns for better maintainability. Below is the project structure:
