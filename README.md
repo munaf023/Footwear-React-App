@@ -1,5 +1,4 @@
-Footwear-React-App
-
+#Footwear-React-App
 
 Footwear-React-App is a fully responsive and dynamic e-commerce website built using React. The app features a sleek UI and provides functionalities such as product browsing, adding items to a cart, and payment handling. It uses a JSON server as a mock backend to simulate API requests and user authentication.
 
