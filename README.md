@@ -39,6 +39,7 @@ npm start
 # Contributors
  Munaf Sumbhaniya
 
- ## Live[Live Demo](https://footwear-react-app.vercel.app/)
+ # Live
+ [Live Demo](https://footwear-react-app.vercel.app/)
 
 
